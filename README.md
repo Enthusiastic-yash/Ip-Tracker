@@ -33,3 +33,5 @@ npm run build
 ```sh
 npm run lint
 ```
+## Play 
+[click here](https://location-ip-tracker.netlify.app/)
